@@ -27,6 +27,5 @@ whiskers:
   "Gray": "{{overlay1.hex}}",
   "DiffAdded": "{{diffAdded.hex}}",
   "DiffRemoved": "{{diffRemoved.hex}}",
-  "DiffModified": "{{diffModified.hex}}",
   "GradientColors": ["{{blue.hex}}", "{{mauve.hex}}", "{{red.hex}}"]
 }
